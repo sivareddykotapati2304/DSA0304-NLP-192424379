@@ -1,6 +1,6 @@
 import re
 
-text = "My email is student@gmail.com and my phone number is 9876543210."
+text = "My email is sivareddy@gmail.com and my phone number is 9030179754."
 
 # Search for an email pattern
 email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b'
